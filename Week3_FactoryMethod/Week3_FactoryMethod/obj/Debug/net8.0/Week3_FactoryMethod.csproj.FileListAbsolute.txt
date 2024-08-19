@@ -1,0 +1,14 @@
+C:\Users\vietn\Dropbox\C#\Week3_FactoryMethod\Week3_FactoryMethod\bin\Debug\net8.0\Week3_FactoryMethod.exe
+C:\Users\vietn\Dropbox\C#\Week3_FactoryMethod\Week3_FactoryMethod\bin\Debug\net8.0\Week3_FactoryMethod.deps.json
+C:\Users\vietn\Dropbox\C#\Week3_FactoryMethod\Week3_FactoryMethod\bin\Debug\net8.0\Week3_FactoryMethod.runtimeconfig.json
+C:\Users\vietn\Dropbox\C#\Week3_FactoryMethod\Week3_FactoryMethod\bin\Debug\net8.0\Week3_FactoryMethod.dll
+C:\Users\vietn\Dropbox\C#\Week3_FactoryMethod\Week3_FactoryMethod\bin\Debug\net8.0\Week3_FactoryMethod.pdb
+C:\Users\vietn\Dropbox\C#\Week3_FactoryMethod\Week3_FactoryMethod\obj\Debug\net8.0\Week3_FactoryMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vietn\Dropbox\C#\Week3_FactoryMethod\Week3_FactoryMethod\obj\Debug\net8.0\Week3_FactoryMethod.AssemblyInfoInputs.cache
+C:\Users\vietn\Dropbox\C#\Week3_FactoryMethod\Week3_FactoryMethod\obj\Debug\net8.0\Week3_FactoryMethod.AssemblyInfo.cs
+C:\Users\vietn\Dropbox\C#\Week3_FactoryMethod\Week3_FactoryMethod\obj\Debug\net8.0\Week3_FactoryMethod.csproj.CoreCompileInputs.cache
+C:\Users\vietn\Dropbox\C#\Week3_FactoryMethod\Week3_FactoryMethod\obj\Debug\net8.0\Week3_FactoryMethod.dll
+C:\Users\vietn\Dropbox\C#\Week3_FactoryMethod\Week3_FactoryMethod\obj\Debug\net8.0\refint\Week3_FactoryMethod.dll
+C:\Users\vietn\Dropbox\C#\Week3_FactoryMethod\Week3_FactoryMethod\obj\Debug\net8.0\Week3_FactoryMethod.pdb
+C:\Users\vietn\Dropbox\C#\Week3_FactoryMethod\Week3_FactoryMethod\obj\Debug\net8.0\Week3_FactoryMethod.genruntimeconfig.cache
+C:\Users\vietn\Dropbox\C#\Week3_FactoryMethod\Week3_FactoryMethod\obj\Debug\net8.0\ref\Week3_FactoryMethod.dll

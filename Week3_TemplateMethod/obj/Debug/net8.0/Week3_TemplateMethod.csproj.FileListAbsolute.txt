@@ -1,0 +1,14 @@
+C:\Users\vnguyen\Desktop\Study\C#\Week3_TemplateMethod\bin\Debug\net8.0\Week3_TemplateMethod.exe
+C:\Users\vnguyen\Desktop\Study\C#\Week3_TemplateMethod\bin\Debug\net8.0\Week3_TemplateMethod.deps.json
+C:\Users\vnguyen\Desktop\Study\C#\Week3_TemplateMethod\bin\Debug\net8.0\Week3_TemplateMethod.runtimeconfig.json
+C:\Users\vnguyen\Desktop\Study\C#\Week3_TemplateMethod\bin\Debug\net8.0\Week3_TemplateMethod.dll
+C:\Users\vnguyen\Desktop\Study\C#\Week3_TemplateMethod\bin\Debug\net8.0\Week3_TemplateMethod.pdb
+C:\Users\vnguyen\Desktop\Study\C#\Week3_TemplateMethod\obj\Debug\net8.0\Week3_TemplateMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vnguyen\Desktop\Study\C#\Week3_TemplateMethod\obj\Debug\net8.0\Week3_TemplateMethod.AssemblyInfoInputs.cache
+C:\Users\vnguyen\Desktop\Study\C#\Week3_TemplateMethod\obj\Debug\net8.0\Week3_TemplateMethod.AssemblyInfo.cs
+C:\Users\vnguyen\Desktop\Study\C#\Week3_TemplateMethod\obj\Debug\net8.0\Week3_TemplateMethod.csproj.CoreCompileInputs.cache
+C:\Users\vnguyen\Desktop\Study\C#\Week3_TemplateMethod\obj\Debug\net8.0\Week3_TemplateMethod.dll
+C:\Users\vnguyen\Desktop\Study\C#\Week3_TemplateMethod\obj\Debug\net8.0\refint\Week3_TemplateMethod.dll
+C:\Users\vnguyen\Desktop\Study\C#\Week3_TemplateMethod\obj\Debug\net8.0\Week3_TemplateMethod.pdb
+C:\Users\vnguyen\Desktop\Study\C#\Week3_TemplateMethod\obj\Debug\net8.0\Week3_TemplateMethod.genruntimeconfig.cache
+C:\Users\vnguyen\Desktop\Study\C#\Week3_TemplateMethod\obj\Debug\net8.0\ref\Week3_TemplateMethod.dll
