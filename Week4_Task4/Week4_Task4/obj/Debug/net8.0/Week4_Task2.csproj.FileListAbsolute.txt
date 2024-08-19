@@ -1,0 +1,14 @@
+C:\Users\vietn\source\repos\Week4_Task2\Week4_Task2\bin\Debug\net8.0\Week4_Task2.exe
+C:\Users\vietn\source\repos\Week4_Task2\Week4_Task2\bin\Debug\net8.0\Week4_Task2.deps.json
+C:\Users\vietn\source\repos\Week4_Task2\Week4_Task2\bin\Debug\net8.0\Week4_Task2.runtimeconfig.json
+C:\Users\vietn\source\repos\Week4_Task2\Week4_Task2\bin\Debug\net8.0\Week4_Task2.dll
+C:\Users\vietn\source\repos\Week4_Task2\Week4_Task2\bin\Debug\net8.0\Week4_Task2.pdb
+C:\Users\vietn\source\repos\Week4_Task2\Week4_Task2\obj\Debug\net8.0\Week4_Task2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vietn\source\repos\Week4_Task2\Week4_Task2\obj\Debug\net8.0\Week4_Task2.AssemblyInfoInputs.cache
+C:\Users\vietn\source\repos\Week4_Task2\Week4_Task2\obj\Debug\net8.0\Week4_Task2.AssemblyInfo.cs
+C:\Users\vietn\source\repos\Week4_Task2\Week4_Task2\obj\Debug\net8.0\Week4_Task2.csproj.CoreCompileInputs.cache
+C:\Users\vietn\source\repos\Week4_Task2\Week4_Task2\obj\Debug\net8.0\Week4_Task2.dll
+C:\Users\vietn\source\repos\Week4_Task2\Week4_Task2\obj\Debug\net8.0\refint\Week4_Task2.dll
+C:\Users\vietn\source\repos\Week4_Task2\Week4_Task2\obj\Debug\net8.0\Week4_Task2.pdb
+C:\Users\vietn\source\repos\Week4_Task2\Week4_Task2\obj\Debug\net8.0\Week4_Task2.genruntimeconfig.cache
+C:\Users\vietn\source\repos\Week4_Task2\Week4_Task2\obj\Debug\net8.0\ref\Week4_Task2.dll
