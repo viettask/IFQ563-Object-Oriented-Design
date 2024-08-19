@@ -1,0 +1,14 @@
+C:\Users\vnguyen\Desktop\Study\C#\Week1_Task3\bin\Debug\net8.0\Week1_Task3.exe
+C:\Users\vnguyen\Desktop\Study\C#\Week1_Task3\bin\Debug\net8.0\Week1_Task3.deps.json
+C:\Users\vnguyen\Desktop\Study\C#\Week1_Task3\bin\Debug\net8.0\Week1_Task3.runtimeconfig.json
+C:\Users\vnguyen\Desktop\Study\C#\Week1_Task3\bin\Debug\net8.0\Week1_Task3.dll
+C:\Users\vnguyen\Desktop\Study\C#\Week1_Task3\bin\Debug\net8.0\Week1_Task3.pdb
+C:\Users\vnguyen\Desktop\Study\C#\Week1_Task3\obj\Debug\net8.0\Week1_Task3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vnguyen\Desktop\Study\C#\Week1_Task3\obj\Debug\net8.0\Week1_Task3.AssemblyInfoInputs.cache
+C:\Users\vnguyen\Desktop\Study\C#\Week1_Task3\obj\Debug\net8.0\Week1_Task3.AssemblyInfo.cs
+C:\Users\vnguyen\Desktop\Study\C#\Week1_Task3\obj\Debug\net8.0\Week1_Task3.csproj.CoreCompileInputs.cache
+C:\Users\vnguyen\Desktop\Study\C#\Week1_Task3\obj\Debug\net8.0\Week1_Task3.dll
+C:\Users\vnguyen\Desktop\Study\C#\Week1_Task3\obj\Debug\net8.0\refint\Week1_Task3.dll
+C:\Users\vnguyen\Desktop\Study\C#\Week1_Task3\obj\Debug\net8.0\Week1_Task3.pdb
+C:\Users\vnguyen\Desktop\Study\C#\Week1_Task3\obj\Debug\net8.0\Week1_Task3.genruntimeconfig.cache
+C:\Users\vnguyen\Desktop\Study\C#\Week1_Task3\obj\Debug\net8.0\ref\Week1_Task3.dll

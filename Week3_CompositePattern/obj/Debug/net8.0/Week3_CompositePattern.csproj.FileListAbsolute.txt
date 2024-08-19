@@ -1,0 +1,14 @@
+C:\Users\vnguyen\source\repos\Week3_CompositePattern\bin\Debug\net8.0\Week3_CompositePattern.exe
+C:\Users\vnguyen\source\repos\Week3_CompositePattern\bin\Debug\net8.0\Week3_CompositePattern.deps.json
+C:\Users\vnguyen\source\repos\Week3_CompositePattern\bin\Debug\net8.0\Week3_CompositePattern.runtimeconfig.json
+C:\Users\vnguyen\source\repos\Week3_CompositePattern\bin\Debug\net8.0\Week3_CompositePattern.dll
+C:\Users\vnguyen\source\repos\Week3_CompositePattern\bin\Debug\net8.0\Week3_CompositePattern.pdb
+C:\Users\vnguyen\source\repos\Week3_CompositePattern\obj\Debug\net8.0\Week3_CompositePattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vnguyen\source\repos\Week3_CompositePattern\obj\Debug\net8.0\Week3_CompositePattern.AssemblyInfoInputs.cache
+C:\Users\vnguyen\source\repos\Week3_CompositePattern\obj\Debug\net8.0\Week3_CompositePattern.AssemblyInfo.cs
+C:\Users\vnguyen\source\repos\Week3_CompositePattern\obj\Debug\net8.0\Week3_CompositePattern.csproj.CoreCompileInputs.cache
+C:\Users\vnguyen\source\repos\Week3_CompositePattern\obj\Debug\net8.0\Week3_CompositePattern.dll
+C:\Users\vnguyen\source\repos\Week3_CompositePattern\obj\Debug\net8.0\refint\Week3_CompositePattern.dll
+C:\Users\vnguyen\source\repos\Week3_CompositePattern\obj\Debug\net8.0\Week3_CompositePattern.pdb
+C:\Users\vnguyen\source\repos\Week3_CompositePattern\obj\Debug\net8.0\Week3_CompositePattern.genruntimeconfig.cache
+C:\Users\vnguyen\source\repos\Week3_CompositePattern\obj\Debug\net8.0\ref\Week3_CompositePattern.dll
